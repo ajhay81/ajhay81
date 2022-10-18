@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajhay81
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning Full Stack Website Development
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Penetration Testing and Cryptography
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, please follow me on https://www.linkedin.com/in/ariesebayang/
 
