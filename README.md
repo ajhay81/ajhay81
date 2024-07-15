@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajhay81
+- 👋 Hi, I’m Arie Sebayang (Aryeloji)
 - 👀 I’m interested in Web Design, Web Development and Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, please follow me on https://www.linkedin.com/in/ariesebayang/
