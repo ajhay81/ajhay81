@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arie Sebayang (Aryeloji)
-- 👀 I’m interested in Web Design, Data Analyst, Machine Learning, and AI
+- 👀 I’m interested in Web Design, Predictive Analyst, Machine Learning, and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, please follow me on https://www.linkedin.com/in/ariesebayang/
 
